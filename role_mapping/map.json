@@ -1,0 +1,11 @@
+{
+    "account_id_1": {
+        "instance_id_1": "role_arn",
+        "instance_id_2": "role_arn"
+    },
+    "account_id_2": {
+        "instance_id_1": "role_arn",
+        "instance_id_2": "role_arn"
+    }
+
+}
